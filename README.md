@@ -1,9 +1,15 @@
-# Burhan-sunsynk.github.io
-My personal portfolio website.
+# Burhan Akhtar Portfolio
 
-Thanks for downloading this template!
+Personal portfolio website for Burhan Akhtar, built as a modern one-page developer portfolio.
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## About
+This site presents Burhan Akhtar as a software developer focused on clean design, responsive interfaces, and practical digital product development.
+
+## Files
+- index.html — primary portfolio homepage
+- service-details.html — service description page
+- portfolio-details.html — project detail page
+- starter-page.html — custom starter page for future additions
+
+## Notes
+This project originally used the DevFolio template and has been personalized with Burhan Akhtar's details, professional positioning, and portfolio messaging.
